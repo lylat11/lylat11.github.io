@@ -2,3 +2,5 @@ body(
   background-color: #a4c078;
 
   #sky (
+    position:relative;
+    left:100px;
