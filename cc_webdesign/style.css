@@ -2,7 +2,7 @@ body{
   background-color: #a4c078;
   }
 
-img {
+ <img id="lake" {
   max-width: 40%;
   height: auto;
 }
